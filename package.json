@@ -1,0 +1,23 @@
+{
+  "name": "flexbot",
+  "version": "1.0.0",
+  "description": "De officiële FlexNetwerk Discord bot!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "keywords": [
+    "Bot",
+    "MineCraft",
+    "FlexNetwerk"
+  ],
+  "author": "KoeienVacht | Robin",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.6"
+  }
+}
